@@ -1,10 +1,12 @@
 # javabehaviouralpatterns
 Examples of Java Behavioural Patterns
 
+- Chain of Responsibility
 - Command
 - Interpreter
 - Iterator
 - Mediator
+- Memento
 - Observer
 - State
 - Strategy
