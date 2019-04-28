@@ -1,6 +1,7 @@
 package com.patrick.java.patterns.behavioural.iterator;
 
 public class NameRepository implements Container {
+	
 	   public String names[] = {"Robert" , "John" ,"Julie" , "Lora"};
 
 	   @Override
